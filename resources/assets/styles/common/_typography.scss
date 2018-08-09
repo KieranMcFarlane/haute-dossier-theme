@@ -1,0 +1,37 @@
+// $body-background-color: #fff !default
+// $body-size: 16px !default
+// $body-rendering: optimizeLegibility !default
+// $body-color: $text !default
+// $body-weight: $weight-normal !default
+// $body-line-height: 1.5 !default
+
+h1,h2,h3,h4,h5,h6,hgroup,
+ul,ol,dd,
+p,figure,
+pre,table,fieldset,hr,
+.header,.media,.island {
+    // font-family: "Helvetica", sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom:1.5rem;
+}
+
+h1 {
+    font-size: 3.375em;
+}
+
+h2 {
+    font-size: 2.25em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+p {
+    font-size: 1em;
+    color: coral;
+}
